@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CsharpStartCourse
+namespace Ex1     // Задача 1 (Анкета) Катаев Сергей
 {
     class Program
     {
@@ -10,10 +10,10 @@ namespace CsharpStartCourse
             var name = Console.ReadLine();
 
             Console.Write("Введите вашу фамилию:");
-            var fename = Console.ReadLine();
+            var fename = Console.ReadLine(); 
 
             Console.Write("Введите ваш возраст:");
-            var age = Console.ReadLine();
+            var age = Console.ReadLine(); 
 
             Console.Write("Введите ваш рост:");
             var rost = Console.ReadLine();
