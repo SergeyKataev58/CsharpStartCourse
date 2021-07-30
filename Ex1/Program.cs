@@ -6,7 +6,7 @@ namespace Ex1     // Задача 1 (Анкета) Катаев Сергей
     {
         static void Main(string[] args)
         {
-            /*  Console.WriteLine("Задача 1 (Анкета)");
+              Console.WriteLine("Задача 1 (Анкета)");
               Console.Write("Введите ваше имя:");
               var name = Console.ReadLine();
 
@@ -43,7 +43,7 @@ namespace Ex1     // Задача 1 (Анкета) Катаев Сергей
             double imt = b / (a * a);
 
             Console.WriteLine("Индекс массы вашего тела:" + imt);
-            */
+            
             //Задача 3 (Посчитать расстояние между точками)
 
             //Ввод координат
