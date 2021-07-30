@@ -27,6 +27,9 @@ namespace CsharpStartCourse
 
             Console.WriteLine(string.Format($"{name} {fename} {age} {rost} {ves}")); //вариант с
 
+
+
         }
+        
     }
 }
